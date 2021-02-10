@@ -2,6 +2,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![GitHub release](https://img.shields.io/badge/version-v1.0-red)](https://img.shields.io/badge/version-v1.0-red)
+[![Contributor](https://img.shields.io/badge/contributors-4-blue)](https://img.shields.io/badge/contributors-4-blue)
+
 ## Описание
 
 В это лабораторной работе необходимо было выполнить первичный анализ датасетов и ответить на вопросы, которые есть ниже:
